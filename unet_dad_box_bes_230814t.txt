@@ -1,0 +1,273 @@
+Step 100: Loss: 19.349, Accuracy: 18.210%
+Step 200: Loss: 18.257, Accuracy: 33.408%
+Val Loss decreased from 100000.0000 to 18.3027
+Epoch: 00 Loss: 17.136, Accuracy: 42.314%, Val Loss: 18.303, Val Accuracy: 38.760%
+
+Step 100: Loss: 14.244, Accuracy: 68.580%
+Step 200: Loss: 13.379, Accuracy: 69.585%
+Val Loss decreased from 18.3027 to 11.8148
+Epoch: 01 Loss: 12.867, Accuracy: 68.607%, Val Loss: 11.815, Val Accuracy: 75.242%
+
+Step 100: Loss: 11.619, Accuracy: 63.456%
+Step 200: Loss: 11.285, Accuracy: 63.573%
+Val Loss decreased from 11.8148 to 10.1590
+Epoch: 02 Loss: 11.021, Accuracy: 62.620%, Val Loss: 10.159, Val Accuracy: 71.101%
+
+Step 100: Loss: 10.518, Accuracy: 57.889%
+Step 200: Loss: 9.988, Accuracy: 59.582%
+Val Loss decreased from 10.1590 to 9.2011
+Epoch: 03 Loss: 9.838, Accuracy: 59.932%, Val Loss: 9.201, Val Accuracy: 55.921%
+
+Step 100: Loss: 9.450, Accuracy: 60.637%
+Step 200: Loss: 9.413, Accuracy: 62.266%
+Val Loss decreased from 9.2011 to 8.7499
+Epoch: 04 Loss: 9.039, Accuracy: 63.440%, Val Loss: 8.750, Val Accuracy: 82.539%
+
+Step 100: Loss: 8.615, Accuracy: 68.584%
+Step 200: Loss: 8.461, Accuracy: 73.793%
+Val Loss decreased from 8.7499 to 7.7763
+Epoch: 05 Loss: 8.196, Accuracy: 76.266%, Val Loss: 7.776, Val Accuracy: 86.650%
+
+Step 100: Loss: 7.850, Accuracy: 82.085%
+Step 200: Loss: 7.452, Accuracy: 83.098%
+Val Loss decreased from 7.7763 to 6.9758
+Epoch: 06 Loss: 7.330, Accuracy: 83.190%, Val Loss: 6.976, Val Accuracy: 87.333%
+
+Step 100: Loss: 7.228, Accuracy: 82.424%
+Step 200: Loss: 6.844, Accuracy: 84.040%
+Val Loss decreased from 6.9758 to 6.5845
+Epoch: 07 Loss: 6.675, Accuracy: 83.656%, Val Loss: 6.584, Val Accuracy: 86.234%
+
+Step 100: Loss: 6.471, Accuracy: 82.430%
+Step 200: Loss: 6.323, Accuracy: 83.611%
+Val Loss decreased from 6.5845 to 6.1709
+Epoch: 08 Loss: 6.201, Accuracy: 83.467%, Val Loss: 6.171, Val Accuracy: 85.426%
+
+Step 100: Loss: 6.028, Accuracy: 82.871%
+Step 200: Loss: 5.786, Accuracy: 84.357%
+Val Loss decreased from 6.1709 to 5.5476
+Epoch: 09 Loss: 5.644, Accuracy: 84.575%, Val Loss: 5.548, Val Accuracy: 87.241%
+
+Step 100: Loss: 5.440, Accuracy: 82.636%
+Step 200: Loss: 5.281, Accuracy: 84.192%
+Val Loss did not decrease from 5.5476
+Epoch: 10 Loss: 5.200, Accuracy: 84.290%, Val Loss: 5.653, Val Accuracy: 79.266%
+
+Step 100: Loss: 5.351, Accuracy: 83.119%
+Step 200: Loss: 5.049, Accuracy: 85.144%
+Val Loss decreased from 5.5476 to 5.0761
+Epoch: 11 Loss: 4.962, Accuracy: 85.095%, Val Loss: 5.076, Val Accuracy: 84.222%
+
+Step 100: Loss: 4.790, Accuracy: 83.763%
+Step 200: Loss: 4.746, Accuracy: 85.326%
+Val Loss decreased from 5.0761 to 4.6026
+Epoch: 12 Loss: 4.634, Accuracy: 84.875%, Val Loss: 4.603, Val Accuracy: 86.533%
+
+Step 100: Loss: 4.416, Accuracy: 82.637%
+Step 200: Loss: 4.386, Accuracy: 83.494%
+Val Loss decreased from 4.6026 to 4.2567
+Epoch: 13 Loss: 4.321, Accuracy: 83.662%, Val Loss: 4.257, Val Accuracy: 87.235%
+
+Step 100: Loss: 4.228, Accuracy: 83.758%
+Step 200: Loss: 4.120, Accuracy: 84.608%
+Val Loss decreased from 4.2567 to 4.0632
+Epoch: 14 Loss: 4.053, Accuracy: 85.070%, Val Loss: 4.063, Val Accuracy: 85.851%
+
+Step 100: Loss: 4.054, Accuracy: 85.678%
+Step 200: Loss: 3.901, Accuracy: 86.214%
+Val Loss decreased from 4.0632 to 3.7497
+Epoch: 15 Loss: 3.791, Accuracy: 86.148%, Val Loss: 3.750, Val Accuracy: 88.115%
+
+Step 100: Loss: 3.689, Accuracy: 86.528%
+Step 200: Loss: 3.580, Accuracy: 86.970%
+Val Loss decreased from 3.7497 to 3.6655
+Epoch: 16 Loss: 3.494, Accuracy: 87.090%, Val Loss: 3.665, Val Accuracy: 87.720%
+
+Step 100: Loss: 3.319, Accuracy: 88.402%
+Step 200: Loss: 3.270, Accuracy: 88.696%
+Val Loss did not decrease from 3.6655
+Epoch: 17 Loss: 3.227, Accuracy: 88.568%, Val Loss: 4.003, Val Accuracy: 87.414%
+
+Step 100: Loss: 3.229, Accuracy: 88.027%
+Step 200: Loss: 3.113, Accuracy: 88.453%
+Val Loss did not decrease from 3.6655
+Epoch: 18 Loss: 3.048, Accuracy: 88.435%, Val Loss: 3.696, Val Accuracy: 86.418%
+
+Step 100: Loss: 2.945, Accuracy: 88.581%
+Step 200: Loss: 2.912, Accuracy: 88.661%
+Val Loss decreased from 3.6655 to 3.2501
+Epoch: 19 Loss: 2.872, Accuracy: 88.673%, Val Loss: 3.250, Val Accuracy: 88.959%
+
+Step 100: Loss: 2.665, Accuracy: 89.548%
+Step 200: Loss: 2.614, Accuracy: 89.882%
+Val Loss decreased from 3.2501 to 3.1320
+Epoch: 20 Loss: 2.568, Accuracy: 89.722%, Val Loss: 3.132, Val Accuracy: 90.417%
+
+Step 100: Loss: 2.471, Accuracy: 90.069%
+Step 200: Loss: 2.369, Accuracy: 90.339%
+Val Loss did not decrease from 3.1320
+Epoch: 21 Loss: 2.340, Accuracy: 90.238%, Val Loss: 3.408, Val Accuracy: 86.388%
+
+Step 100: Loss: 2.495, Accuracy: 89.590%
+Step 200: Loss: 2.466, Accuracy: 89.193%
+Val Loss decreased from 3.1320 to 3.0226
+Epoch: 22 Loss: 2.369, Accuracy: 89.466%, Val Loss: 3.023, Val Accuracy: 90.249%
+
+Step 100: Loss: 2.183, Accuracy: 90.719%
+Step 200: Loss: 2.123, Accuracy: 90.760%
+Val Loss decreased from 3.0226 to 2.8301
+Epoch: 23 Loss: 2.068, Accuracy: 90.775%, Val Loss: 2.830, Val Accuracy: 90.973%
+
+Step 100: Loss: 1.951, Accuracy: 91.162%
+Step 200: Loss: 1.923, Accuracy: 91.523%
+Val Loss did not decrease from 2.8301
+Epoch: 24 Loss: 1.907, Accuracy: 91.447%, Val Loss: 2.900, Val Accuracy: 90.726%
+
+Step 100: Loss: 1.980, Accuracy: 91.160%
+Step 200: Loss: 1.842, Accuracy: 91.415%
+Val Loss did not decrease from 2.8301
+Epoch: 25 Loss: 1.830, Accuracy: 91.366%, Val Loss: 3.351, Val Accuracy: 85.184%
+
+Step 100: Loss: 1.696, Accuracy: 91.276%
+Step 200: Loss: 1.694, Accuracy: 91.269%
+Val Loss decreased from 2.8301 to 2.7588
+Epoch: 26 Loss: 1.703, Accuracy: 91.011%, Val Loss: 2.759, Val Accuracy: 89.022%
+
+Step 100: Loss: 1.792, Accuracy: 91.144%
+Step 200: Loss: 1.678, Accuracy: 91.444%
+Val Loss decreased from 2.7588 to 2.7174
+Epoch: 27 Loss: 1.598, Accuracy: 91.617%, Val Loss: 2.717, Val Accuracy: 90.590%
+
+Step 100: Loss: 1.467, Accuracy: 92.023%
+Step 200: Loss: 1.416, Accuracy: 92.514%
+Val Loss decreased from 2.7174 to 2.6198
+Epoch: 28 Loss: 1.409, Accuracy: 92.420%, Val Loss: 2.620, Val Accuracy: 91.590%
+
+Step 100: Loss: 1.276, Accuracy: 93.044%
+Step 200: Loss: 1.262, Accuracy: 93.141%
+Val Loss did not decrease from 2.6198
+Epoch: 29 Loss: 1.249, Accuracy: 93.112%, Val Loss: 3.180, Val Accuracy: 89.380%
+
+Step 100: Loss: 1.260, Accuracy: 93.374%
+Step 200: Loss: 1.256, Accuracy: 93.357%
+Val Loss did not decrease from 2.6198
+Epoch: 30 Loss: 1.253, Accuracy: 93.073%, Val Loss: 3.459, Val Accuracy: 86.845%
+
+Step 100: Loss: 1.289, Accuracy: 92.810%
+Step 200: Loss: 1.261, Accuracy: 92.974%
+Val Loss decreased from 2.6198 to 2.4886
+Epoch: 31 Loss: 1.250, Accuracy: 92.924%, Val Loss: 2.489, Val Accuracy: 91.882%
+
+Step 100: Loss: 1.095, Accuracy: 93.500%
+Step 200: Loss: 1.112, Accuracy: 93.661%
+Val Loss did not decrease from 2.4886
+Epoch: 32 Loss: 1.150, Accuracy: 93.293%, Val Loss: 3.018, Val Accuracy: 88.010%
+
+Step 100: Loss: 1.075, Accuracy: 93.315%
+Step 200: Loss: 1.055, Accuracy: 93.440%
+Val Loss did not decrease from 2.4886
+Epoch: 33 Loss: 1.064, Accuracy: 93.470%, Val Loss: 2.890, Val Accuracy: 88.810%
+
+Step 100: Loss: 1.062, Accuracy: 93.680%
+Step 200: Loss: 1.009, Accuracy: 93.695%
+Val Loss did not decrease from 2.4886
+Epoch: 34 Loss: 1.011, Accuracy: 93.660%, Val Loss: 2.589, Val Accuracy: 92.244%
+
+Step 100: Loss: 0.965, Accuracy: 94.107%
+Step 200: Loss: 0.919, Accuracy: 94.343%
+Val Loss did not decrease from 2.4886
+Epoch: 35 Loss: 0.919, Accuracy: 94.153%, Val Loss: 2.833, Val Accuracy: 91.480%
+
+Step 100: Loss: 1.060, Accuracy: 92.981%
+Step 200: Loss: 1.355, Accuracy: 91.659%
+Val Loss did not decrease from 2.4886
+Epoch: 36 Loss: 1.441, Accuracy: 90.989%, Val Loss: 3.395, Val Accuracy: 90.991%
+
+Lowering lr, restarting from best model
+Step 100: Loss: 1.131, Accuracy: 93.454%
+Step 200: Loss: 1.100, Accuracy: 93.715%
+Val Loss decreased from 2.4886 to 2.4566
+Epoch: 37 Loss: 1.093, Accuracy: 93.749%, Val Loss: 2.457, Val Accuracy: 92.549%
+
+Step 100: Loss: 1.078, Accuracy: 93.885%
+Step 200: Loss: 1.067, Accuracy: 93.959%
+Val Loss did not decrease from 2.4566
+Epoch: 38 Loss: 1.053, Accuracy: 94.026%, Val Loss: 2.480, Val Accuracy: 92.660%
+
+Step 100: Loss: 1.068, Accuracy: 93.963%
+Step 200: Loss: 1.027, Accuracy: 94.204%
+Val Loss did not decrease from 2.4566
+Epoch: 39 Loss: 1.014, Accuracy: 94.210%, Val Loss: 2.528, Val Accuracy: 92.787%
+
+Step 100: Loss: 1.099, Accuracy: 94.115%
+Step 200: Loss: 1.043, Accuracy: 94.321%
+Val Loss did not decrease from 2.4566
+Epoch: 40 Loss: 1.030, Accuracy: 94.304%, Val Loss: 2.558, Val Accuracy: 92.855%
+
+Step 100: Loss: 0.989, Accuracy: 94.373%
+Step 200: Loss: 0.980, Accuracy: 94.472%
+Val Loss did not decrease from 2.4566
+Epoch: 41 Loss: 0.971, Accuracy: 94.459%, Val Loss: 2.570, Val Accuracy: 92.781%
+
+Step 100: Loss: 0.963, Accuracy: 94.628%
+Step 200: Loss: 0.954, Accuracy: 94.585%
+Val Loss did not decrease from 2.4566
+Epoch: 42 Loss: 0.944, Accuracy: 94.581%, Val Loss: 2.603, Val Accuracy: 93.003%
+
+Val Loss is not improving, exiting...
+Acc. step 200 on test set
+Just test F1 Score was 0.9345220800162898
+Acc. step 200 on val set
+Just validation F1 Score was 0.9181674478754709
+Class Accuracies:
+|Class Name|Test|Val|
+|----------|----|---|
+|abstract|99.786894%|93.298127%|
+|appendice|49.581208%|28.170526%|
+|author_bio|75.000000%|100.000000%|
+|author_name|99.585353%|99.990448%|
+|background|93.693883%|93.934933%|
+|caption|94.870868%|96.470565%|
+|contact_info|99.223878%|93.126761%|
+|copyright|94.147882%|94.681762%|
+|core_text|94.106808%|93.233465%|
+|doi|100.000000%|100.000000%|
+|editor|87.229437%|35.701321%|
+|figure|94.825538%|95.285162%|
+|funding_info|90.650327%|53.683597%|
+|keywords|99.978940%|92.013542%|
+|list|71.339277%|80.386218%|
+|math_formula|92.703686%|94.040269%|
+|note|91.280222%|97.374970%|
+|publisher|100.000000%|99.985119%|
+|reference|97.495084%|99.450588%|
+|section_heading|98.106130%|98.526028%|
+|table|96.084573%|90.379707%|
+|title|99.938485%|99.964443%|
+
+
+Class mIOU:
+|Class Name|Test|Val|
+|----------|----|---|
+|abstract|94.563472%|90.868335%|
+|appendice|45.331225%|26.229538%|
+|author_bio|56.846716%|96.204827%|
+|author_name|54.031853%|62.041135%|
+|background|92.368125%|92.331974%|
+|caption|75.941026%|79.682542%|
+|contact_info|40.180536%|26.230724%|
+|copyright|66.370553%|64.702284%|
+|core_text|91.972367%|92.000779%|
+|doi|37.323213%|31.026060%|
+|editor|19.272841%|7.374871%|
+|figure|90.635746%|91.486874%|
+|funding_info|45.711903%|35.313381%|
+|keywords|54.309236%|57.097089%|
+|list|57.426405%|59.078376%|
+|math_formula|45.632939%|53.175243%|
+|note|70.249602%|62.999298%|
+|publisher|36.728804%|50.487400%|
+|reference|94.666573%|96.924386%|
+|section_heading|59.537130%|55.503410%|
+|table|90.814343%|84.032803%|
+|title|81.655474%|82.752446%|
